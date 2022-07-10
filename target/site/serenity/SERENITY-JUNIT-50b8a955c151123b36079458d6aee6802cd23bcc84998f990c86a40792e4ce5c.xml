@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="testCases.TestLogIn" skipped="0" tests="2" time="18.11" timestamp="2022-07-08 11:56:07"><testcase classname="testCases.TestLogIn" name="Log in fail"><error message="Timed out after 4 seconds. Element not available&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'ECOMPUER123', ip: '192.168.121.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.ElementNotVisibleException">Timed out after 4 seconds. Element not available
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ECOMPUER123', ip: '192.168.121.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: driver.version: unknown</error><system-err>Timed out after 4 seconds. Element not available
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ECOMPUER123', ip: '192.168.121.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: driver.version: unknown&#13;
+pageObject.LogInPage.mainBtnIngresar(LogInPage.java:25)&#13;
+steps.StepsLogIn.ingresarLogIn(StepsLogIn.java:14)&#13;
+testCases.TestLogIn.LogInFail(TestLogIn.java:25)&#13;
+</system-err></testcase><testcase classname="testCases.TestLogIn" name="Log in OK"><error message="Timed out after 4 seconds. Element not available&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'ECOMPUER123', ip: '192.168.121.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.ElementNotVisibleException">Timed out after 4 seconds. Element not available
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ECOMPUER123', ip: '192.168.121.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: driver.version: unknown</error><system-err>Timed out after 4 seconds. Element not available
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ECOMPUER123', ip: '192.168.121.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_333'
+Driver info: driver.version: unknown&#13;
+pageObject.LogInPage.mainBtnIngresar(LogInPage.java:25)&#13;
+steps.StepsLogIn.ingresarLogIn(StepsLogIn.java:14)&#13;
+testCases.TestLogIn.LogInOK(TestLogIn.java:18)&#13;
+</system-err></testcase></testsuite>
