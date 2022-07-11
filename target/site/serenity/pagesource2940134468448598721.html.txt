@@ -1,0 +1,193 @@
+<html><head><script type="text/javascript" async="" id="ttcustomaudienceTT-12196-7" src="https://TT-12196-7.seg.t.tailtarget.com/ca?tZ=190629393"></script><script async="" src="https://www.clarity.ms/eus2-c/s/0.6.34/clarity.js"></script><script type="text/javascript" async="" id="ttprofileTT-12196-7" src="https://b.t.tailtarget.com/b?tA=TT-12196-7&amp;tY=1&amp;tS=4&amp;tU=0100007F4D85CB62C5063E1D02227B29&amp;tX=b.52&amp;tZ=407499303"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/config.js?sdkid=C91MQ67RAOSJ17FRCDN0&amp;hostname=almundo.com.ar"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/config.js?sdkid=C92TAKJC77U9N0P90D40&amp;hostname=almundo.com.ar"></script><script type="text/javascript" async="" id="ttuuidTT-12196-7" src="https://b.t.tailtarget.com/u?"></script><script type="text/javascript" async="" src="https://d.tailtarget.com/base.js"></script><script async="" src="https://www.clarity.ms/tag/uet/5152659"></script><script type="text/javascript" async="" src="https://d.tailtarget.com/conversion.js"></script><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><meta name="theme-color" content="#EA6422"><meta name="HandheldFriendly" content="true"><base href="/account"><link rel="shortcut icon" href="https://cdn.almundo.com/statics/img/home/favicon/almundo-favicon.ico" type="image/ico"><link rel="preload" href="https://fonts.almundo.com/ProximaNova/ProximaNova.css" as="style" crossorigin="anonymous"><link rel="stylesheet" href="https://fonts.almundo.com/ProximaNova/ProximaNova.css"><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C91MQ67RAOSJ17FRCDN0&amp;lib=ttq"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C92TAKJC77U9N0P90D40&amp;lib=ttq"></script><script type="text/javascript" async="" src="https://api.retargetly.com/loader?id=213" id="rely-api"></script><script src="https://connect.facebook.net/signals/config/567398593402722?v=2.9.64&amp;r=stable" async=""></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://tags.t.tailtarget.com/t3m.js?i=TT-12196-7/CT-904"></script><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="https://static.hotjar.com/c/hotjar-688891.js?sv=7"></script><script gtm="GTM-MZFT" type="text/javascript" async="" src="https://www.google-analytics.com/gtm/optimize.js?id=GTM-MTZBMV5"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-9QE9RZF1CQ&amp;l=dataLayer&amp;cx=c"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MZFT"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://cdn.almundo.com/idm/am-login-guard-v4.js" type="text/javascript" data-cfasync="false"></script><script type="text/javascript" data-cfasync="false">window.dataLayer = window.dataLayer || [];
+</script><script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');</script><script type="text/javascript">ga('create', 'UA-69569737-1', 'auto'); // reemplazar acá por el id de UA para el site/channel/etc
+ga('require', ''); // reemplazar acá por el id de container de Optimize para el site/channel/etc</script><script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MZFT');</script><meta name="robots" content="noindex"><link rel="preconnect" href="https://images.almundo.com"><link rel="preconnect" href="https://fonts.almundo.com"><link rel="preconnect" href="https://cdn.almundo.com"><link rel="stylesheet" href="/account/assets/es-AR/styles.c870ac54304eef0ac624.css"><link rel="stylesheet" href="https://cdn.almundo.com/statics/ajax/libs/Swiper/4.3.3/css/swiper.min.css"><link rel="stylesheet" href="/account/assets/fonts/account-icon/account-icon-ab85f50dd5cecc976f361ddf4e8e606f.css"><script type="text/javascript" data-cfasync="false">window._app_context = {"company":"almundo","channel":"web","brand":"almundo","site":"arg","language":"es","locale":"es-AR","currency":{"code":"ARS","description":"$"},"country":"ARG","env":"production"};
+window._app_config = {"barBrowserColor":"#EA6422","moebiusTemplate":"almundo-theme","logo":{"mobile":"/account/assets/images/login/logo-mobile.png","desktop":"/account/assets/images/login/logo-desktop.png"},"termsUri":"/legales/politica-de-privacidad","page":{"login":{"mjsWelcome":"","alerts":["Para ver tus reservas ingresá o registrate con el email que realizaste la compra."]},"reservations":{"noReservationsImg":"/account/assets/images/misc/avion-almundo.png","alert":"/account/assets/images/misc/alert.png","emptyTicketImg":"/account/assets/images/misc/empty-ticket-image.png"},"attendance":{"instruction_1":"Para cancelar, comunicate con nuestros canales de atención:","phones":"0810.220.1309","instruction_2":"Lunes a viernes de 10 a 20 h","instruction_3":"Sábado de 9 a 15 h"}}};
+window.enviroment = "production";
+</script><script charset="utf-8" src="/account/assets/es-AR/8-es2015.950590598d0069c5d381.js"></script><style>@font-face {
+  font-family: 'am-footer-icon-6bdf08d3fffa639fbb3d615fbe506ba5';
+  src: url('https://cdn.almundo.com/statics/img/home/font/am-footer-icon-6bdf08d3fffa639fbb3d615fbe506ba5.eot');
+  src: url('https://cdn.almundo.com/statics/img/home/font/am-footer-icon-6bdf08d3fffa639fbb3d615fbe506ba5.eot?#iefix')
+      format('eot'),
+    url('https://cdn.almundo.com/statics/img/home/font/am-footer-icon-6bdf08d3fffa639fbb3d615fbe506ba5.woff')
+      format('woff'),
+    url('https://cdn.almundo.com/statics/img/home/font/am-footer-icon-6bdf08d3fffa639fbb3d615fbe506ba5.ttf')
+      format('truetype'),
+    url('https://cdn.almundo.com/statics/img/home/font/am-footer-icon-6bdf08d3fffa639fbb3d615fbe506ba5.svg#am-footer-icon-6bdf08d3fffa639fbb3d615fbe506ba5')
+      format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.common-theme {
+  --color-primary: #ea6422;
+  --color-primary-clear: #fcece4;
+  --color-primary-light: #fb8b29;
+  --color-primary-dark: #c94f13;
+  --color-primary-contrast: #fff;
+  --color-secondary: #179ea4;
+  --color-secondary-clear: #eef8f7;
+  --color-secondary-light: #56c6c8;
+  --color-secondary-dark: #138388;
+  --color-secondary-contrast: #fff;
+  --color-tertiary: #ef5375;
+  --color-tertiary-clear: #ffe4ea;
+  --color-tertiary-light: #ff9bb1;
+  --color-tertiary-dark: #d1243e;
+  --color-tertiary-contrast: #fff;
+  --color-gray-500: #f0f0f0;
+  --color-gray-600: #dddede;
+  --color-gray-700: #9fa2a2;
+  --color-gray-800: #626565;
+  --color-gray-900: #454848;
+  --color-gray: #9fa2a2;
+  --color-gray-light: #f0f0f0;
+  --color-gray-dark: #454848;
+  --color-success: #0c7130;
+  --color-success-clear: #e2eee6;
+  --color-success-light: #559c6e;
+  --color-success-dark: #06541e;
+  --color-success-contrast: #fff;
+  --color-error: #e5262e;
+  --color-error-clear: #fce5e6;
+  --color-error-light: #ed676d;
+  --color-error-dark: #ae181e;
+  --color-error-contrast: #fff;
+  --color-warning: #dfb032;
+  --color-warning-clear: #fbf6e6;
+  --color-warning-light: #e9c870;
+  --color-warning-dark: #d2971f;
+  --color-warning-contrast: #454548;
+  --color-notification: #2070c1;
+  --color-notification-clear: #e4eef8;
+  --color-notification-light: #639bd4;
+  --color-notification-dark: #0e56a1;
+  --color-notification-contrast: #fff;
+  --color-text-light: #fff;
+  --color-text-dark: #454548;
+  --color-text-disabled: #9fa2a2;
+  --color-foreground: #fff;
+  --color-foreground-contrast: #454548;
+  --color-background: #f8f8f8;
+  --color-background-contrast: #454548;
+  --color-disabled: #dddede;
+  --color-border: #cacaca;
+  --color-white: #fff;
+  --color-white-clear: #525252;
+  --font-family: ProximaNova, Arial, sans-serif;
+}</style><style>[_nghost-ero-c0]{display:flex;padding:40px 16px 24px;align-items:center;flex-direction:column}[_nghost-ero-c0]   .loginRoot__logo[_ngcontent-ero-c0]{margin-bottom:16px}[_nghost-ero-c0]   .loginRoot__logo--dt[_ngcontent-ero-c0]{display:none}[_nghost-ero-c0]   .loginRoot__logo--mb[_ngcontent-ero-c0]{height:80px}  html{background:url(/account/assets/images/login/img-mobile.png) 0 0/cover no-repeat}@media only screen and (min-width:768px) and (max-width:1151px){[_nghost-ero-c0]{max-width:361px;margin:0 auto;padding:32px 0}[_nghost-ero-c0]   .loginRoot__logo--mb[_ngcontent-ero-c0]{display:none}[_nghost-ero-c0]   .loginRoot__logo--dt[_ngcontent-ero-c0]{display:inline;height:80px}  html{background:url(/account/assets/images/login/img-desktop.png) 0 0/cover no-repeat}}@media only screen and (min-width:1152px){[_nghost-ero-c0]{max-width:361px;margin:0 auto;padding:32px 0}[_nghost-ero-c0]   .loginRoot__logo--mb[_ngcontent-ero-c0]{display:none}[_nghost-ero-c0]   .loginRoot__logo--dt[_ngcontent-ero-c0]{display:inline;height:80px}  html{background:url(/account/assets/images/login/img-desktop.png) 0 0/cover no-repeat}}</style><style>[_nghost-ero-c1]{display:block}[_nghost-ero-c1]   .login__alertText[_ngcontent-ero-c1]{font-size:24px;font-weight:600;color:#fff;text-align:center}[_nghost-ero-c1]   .login__btn[_ngcontent-ero-c1]{display:block;width:100%;margin-bottom:16px}[_nghost-ero-c1]   .login__btn[_ngcontent-ero-c1]:last-of-type{margin-bottom:24px}[_nghost-ero-c1]   .login__btn.outline[_ngcontent-ero-c1]{color:#fff}[_nghost-ero-c1]   .login__btn.outline[_ngcontent-ero-c1]:hover{border:1px solid rgba(255,255,255,.7);box-shadow:0 4px 12px 0 rgba(14,15,32,.15);color:rgba(255,255,255,.7)}[_nghost-ero-c1]   .login__beneficts[_ngcontent-ero-c1]{background-color:var(--color-foreground);border-radius:4px;padding:16px}[_nghost-ero-c1]   .login__benefictsItems[_ngcontent-ero-c1]{display:flex;align-items:center;color:var(--color-text-dark);font-size:16px;line-height:1.25;margin-bottom:16px}[_nghost-ero-c1]   .login__benefictsItems[_ngcontent-ero-c1] > p[_ngcontent-ero-c1]{margin:0}[_nghost-ero-c1]   .login__benefictsItems[_ngcontent-ero-c1]:last-child{margin-bottom:0}[_nghost-ero-c1]   .login__icons[_ngcontent-ero-c1]{font-size:48px;color:var(--color-primary);margin-right:6px}[_nghost-ero-c1]   .login__alerts[_ngcontent-ero-c1]{margin-bottom:16px}[_nghost-ero-c1]   .login__alerts[_ngcontent-ero-c1]:last-of-type{margin-bottom:24px}[_nghost-ero-c1]   .login__msgWelcome[_ngcontent-ero-c1]{font-size:24px;line-height:1.08;color:var(--color-text-light);margin:0 0 16px;text-align:center}[_nghost-ero-c1]   .login__avantripMessage[_ngcontent-ero-c1]{color:#fff;text-align:center;font-size:20px;margin:0 0 10px}[_nghost-ero-c1]   .login__avantripBar[_ngcontent-ero-c1]{border-bottom:1px solid #dddede;margin-top:24px}@media only screen and (min-width:768px) and (max-width:1151px){[_nghost-ero-c1]   .login__beneficts[_ngcontent-ero-c1]{padding:24px 16px}[_nghost-ero-c1]   .login__benefictsItems[_ngcontent-ero-c1]{font-size:18px;line-height:1.11}[_nghost-ero-c1]   .login__icons[_ngcontent-ero-c1]{font-size:64px}}@media only screen and (min-width:1152px){[_nghost-ero-c1]   .login__beneficts[_ngcontent-ero-c1]{padding:24px 16px}[_nghost-ero-c1]   .login__benefictsItems[_ngcontent-ero-c1]{font-size:18px;line-height:1.11}[_nghost-ero-c1]   .login__icons[_ngcontent-ero-c1]{font-size:64px}}</style><style>.mb-button--principal.mb-button--primary[_nghost-ero-c2]:disabled, .mb-button--principal.mb-button--primary[_nghost-ero-c2]:disabled:hover, .mb-button--principal.mb-button--secondary[_nghost-ero-c2]:disabled, .mb-button--principal.mb-button--secondary[_nghost-ero-c2]:disabled:hover{background-color:var(--color-disabled);border-color:var(--color-disabled);box-shadow:none;color:var(--color-text-disabled)}.mb-button--floating.mb-button--primary[_nghost-ero-c2]:disabled, .mb-button--floating.mb-button--primary[_nghost-ero-c2]:disabled:hover, .mb-button--floating.mb-button--secondary[_nghost-ero-c2]:disabled, .mb-button--floating.mb-button--secondary[_nghost-ero-c2]:disabled:hover{background-color:transparent;color:var(--color-text-disabled)}.mb-button--outline.mb-button--primary[_nghost-ero-c2]:disabled, .mb-button--outline.mb-button--primary[_nghost-ero-c2]:disabled:hover, .mb-button--outline.mb-button--secondary[_nghost-ero-c2]:disabled, .mb-button--outline.mb-button--secondary[_nghost-ero-c2]:disabled:hover{border-color:var(--color-text-disabled);box-shadow:unset;color:var(--color-text-disabled)}.mb-button--link.mb-button--primary[_nghost-ero-c2]:disabled, .mb-button--link.mb-button--primary[_nghost-ero-c2]:disabled:hover, .mb-button--link.mb-button--secondary[_nghost-ero-c2]:disabled, .mb-button--link.mb-button--secondary[_nghost-ero-c2]:disabled:hover{color:var(--color-text-disabled)}.mb-button[_nghost-ero-c2]{font-size:16px;font-weight:600;line-height:1.25;-webkit-tap-highlight-color:transparent;border:1px solid;border-radius:20px;cursor:pointer;display:inline-block;height:2.5rem;min-width:120px;outline:0;padding:0 1rem;position:relative;text-align:center;text-decoration:none;text-transform:uppercase;transition:.5s;white-space:nowrap}@media only screen and (max-width:767px){.mb-button[_nghost-ero-c2]{line-height:1.33}}.mb-button--loading[_nghost-ero-c2]{pointer-events:none}.mb-button--loading[_nghost-ero-c2]   .mb-button__loader[_ngcontent-ero-c2], .mb-button--loading[_nghost-ero-c2]   .mb-button__loader[_ngcontent-ero-c2]:after, .mb-button--loading[_nghost-ero-c2]   .mb-button__loader[_ngcontent-ero-c2]:before{-webkit-animation:1.8s ease-in-out infinite both load;animation:1.8s ease-in-out infinite both load;background:0 0;border-radius:50%;height:1em;width:1em}.mb-button--loading[_nghost-ero-c2]   .mb-button__loader[_ngcontent-ero-c2]{-webkit-animation-delay:-.16s;animation-delay:-.16s;color:var(--color-white);font-size:10px;left:50%;margin:calc(-.5em - 10px) 0 0 -.5em;position:absolute;top:50%;transform:translateZ(0)}.mb-button--loading[_nghost-ero-c2]   .mb-button__loader[_ngcontent-ero-c2]:after, .mb-button--loading[_nghost-ero-c2]   .mb-button__loader[_ngcontent-ero-c2]:before{content:"";position:absolute;top:0}.mb-button--loading[_nghost-ero-c2]   .mb-button__loader[_ngcontent-ero-c2]:before{-webkit-animation-delay:-.32s;animation-delay:-.32s;left:-2em}.mb-button--loading[_nghost-ero-c2]   .mb-button__loader[_ngcontent-ero-c2]:after{left:2em}@-webkit-keyframes load{0%,100%,80%{box-shadow:0 10px 0 -1.3em}40%{box-shadow:0 10px 0 0}}@keyframes load{0%,100%,80%{box-shadow:0 10px 0 -1.3em}40%{box-shadow:0 10px 0 0}}.mb-button__content[_ngcontent-ero-c2]{align-content:center;display:flex;justify-content:center}.mb-button__icon[_ngcontent-ero-c2]{align-items:center;display:flex;margin-right:4px}.mb-button--principal.mb-button--primary[_nghost-ero-c2]{background-color:var(--color-primary);border-color:var(--color-primary);color:var(--color-primary-contrast)}.mb-button--principal.mb-button--primary.mb-button--loading[_nghost-ero-c2]{background-color:var(--color-primary-light);border-color:var(--color-primary-light);box-shadow:0 4px 12px 0 rgba(14,15,32,.15)}.mb-button--principal.mb-button--primary.mb-button--loading[_nghost-ero-c2]   .mb-button__loader[_ngcontent-ero-c2]{color:var(--color-primary-contrast)}.mb-button--floating.mb-button--primary[_nghost-ero-c2]{background-color:var(--color-white);border-color:transparent;color:var(--color-primary)}.mb-button--floating.mb-button--primary.mb-button--loading[_nghost-ero-c2]   .mb-button__loader[_ngcontent-ero-c2]{color:var(--color-primary-light)}.mb-button--outline.mb-button--primary[_nghost-ero-c2]{background-color:transparent;color:var(--color-primary)}.mb-button--outline.mb-button--primary.mb-button--loading[_nghost-ero-c2]{border-color:var(--color-primary-light);box-shadow:0 4px 12px 0 rgba(14,15,32,.15);color:var(--color-primary-light)}.mb-button--outline.mb-button--primary.mb-button--loading[_nghost-ero-c2]   .mb-button__loader[_ngcontent-ero-c2]{color:var(--color-primary-light)}.mb-button--link.mb-button--primary[_nghost-ero-c2]{background-color:transparent;border-color:transparent;color:var(--color-primary);text-transform:unset}.mb-button--principal.mb-button--secondary[_nghost-ero-c2]{background-color:var(--color-secondary);border-color:var(--color-secondary);color:var(--color-secondary-contrast)}@media not all and (hover:none){.mb-button--principal.mb-button--primary[_nghost-ero-c2]:hover{background-color:var(--color-primary-light);border-color:var(--color-primary-light);box-shadow:0 4px 12px 0 rgba(14,15,32,.15)}.mb-button--floating.mb-button--primary[_nghost-ero-c2]:hover{background-color:var(--color-primary-clear);color:var(--color-primary-light)}.mb-button--outline.mb-button--primary[_nghost-ero-c2]:hover{border-color:var(--color-primary-light);box-shadow:0 4px 12px 0 rgba(14,15,32,.15);color:var(--color-primary-light)}.mb-button--link.mb-button--primary[_nghost-ero-c2]:hover{color:var(--color-primary-light)}.mb-button--principal.mb-button--secondary[_nghost-ero-c2]:hover{background-color:var(--color-secondary-light);border-color:var(--color-secondary-light);box-shadow:0 4px 12px 0 rgba(14,15,32,.15)}}.mb-button--principal.mb-button--secondary.mb-button--loading[_nghost-ero-c2]{background-color:var(--color-secondary-light);border-color:var(--color-secondary-light);box-shadow:0 4px 12px 0 rgba(14,15,32,.15)}.mb-button--principal.mb-button--secondary.mb-button--loading[_nghost-ero-c2]   .mb-button__loader[_ngcontent-ero-c2]{color:var(--color-secondary-contrast)}.mb-button--floating.mb-button--secondary[_nghost-ero-c2]{background-color:var(--color-white);border-color:transparent;color:var(--color-secondary)}.mb-button--floating.mb-button--secondary.mb-button--loading[_nghost-ero-c2]   .mb-button__loader[_ngcontent-ero-c2]{color:var(--color-secondary-light)}.mb-button--outline.mb-button--secondary[_nghost-ero-c2]{background-color:transparent;color:var(--color-secondary)}.mb-button--outline.mb-button--secondary.mb-button--loading[_nghost-ero-c2]{border-color:var(--color-secondary-light);box-shadow:0 4px 12px 0 rgba(14,15,32,.15);color:var(--color-secondary-light)}.mb-button--outline.mb-button--secondary.mb-button--loading[_nghost-ero-c2]   .mb-button__loader[_ngcontent-ero-c2]{color:var(--color-secondary-light)}.mb-button--link.mb-button--secondary[_nghost-ero-c2]{background-color:transparent;border-color:transparent;color:var(--color-secondary);text-transform:unset}@media not all and (hover:none){.mb-button--floating.mb-button--secondary[_nghost-ero-c2]:hover{background-color:var(--color-secondary-clear);color:var(--color-secondary-light)}.mb-button--outline.mb-button--secondary[_nghost-ero-c2]:hover{border-color:var(--color-secondary-light);box-shadow:0 4px 12px 0 rgba(14,15,32,.15);color:var(--color-secondary-light)}.mb-button--link.mb-button--secondary[_nghost-ero-c2]:hover{color:var(--color-secondary-light)}}</style><style>.newPlatformDialog[_ngcontent-ero-c3]   a[_ngcontent-ero-c3]{text-decoration:underline}.newPlatformDialogHeader[_ngcontent-ero-c3]{margin-top:0;font-size:24px}@media only screen and (max-width:767px){.newPlatformDialog[_ngcontent-ero-c3]{margin:0 30px}}</style><meta http-equiv="origin-trial" content="A9wkrvp9y21k30U9lU7MJMjBj4USjLrGwV+Z8zO3J3ZBH139DOnCv3XLK2Ii40S94HG1SZ/Zeg2GSHOD3wlWngYAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script async="" src="https://script.hotjar.com/modules.e691815239005b70eaea.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><script src="https://bat.bing.com/p/action/5152659.js" type="text/javascript" async="" data-ueto="ueto_3dd6045c9f"></script><script src="https://resources-rt.idx.lat/T2.min.js" defer=""></script><script charset="utf-8" src="https://analytics.tiktok.com/i18n/pixel/identify.js"></script></head><body class="almundo-theme"><style type="text/css">.modela-compatibility{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index:999;
+}
+.modela-compatibility__body{
+    border-radius: 4px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 16px;
+    max-width: 340px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.modela-compatibility__title{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+    color: #454848;
+    margin: 0;
+    margin-bottom: 16px;
+    font-family: sans-serif;
+}
+.modela-compatibility__text{
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 18px;
+    text-align: center;
+    margin: 0;
+    color: #454848;
+    font-family: sans-serif;
+}
+.modela-compatibility__button{
+    border-radius: 20px;
+    background-color: #ea6422;
+    border-style: none;
+    outline: none;
+    color: white;
+    padding: 12px 21px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 16px;
+    display: inline-block;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.modela-compatibility__button--margin {
+    margin-bottom: 16px;
+    margin-top: 16px;
+}</style><script type="text/javascript">function OpenPopUp(){
+    var body = document.getElementsByTagName("body")[0];
+    var domOverlay = document.createElement("div");
+    var domMensaje = document.createElement("div");
+    var domTitle = document.createElement("h2");
+    var domText_1 = document.createElement("p");
+    var domText_2 = document.createElement("p");
+    var buttonFirex = document.createElement("a");
+    var buttonChrome = document.createElement("a");
+    domTitle.innerHTML = "Mejorá tu experiencia";
+    domText_1.innerHTML = "Tu navegador no dispone de algunas funcionalidades";
+    domText_2.innerHTML = "Para acceder a ellas, podés actualizarlo o descargate otro.";
+    buttonChrome.innerHTML = "DESCARGA CHROME";
+    buttonFirex.innerHTML = "DESCARGA FIREFOX";
+    domOverlay.classList.add("modela-compatibility");
+    domMensaje.classList.add("modela-compatibility__body");
+    domTitle.classList.add("modela-compatibility__title");
+    domText_1.classList.add("modela-compatibility__text");
+    domText_2.classList.add("modela-compatibility__text");
+    buttonChrome.classList.add("modela-compatibility__button");
+    buttonChrome.classList.add("modela-compatibility__button--margin");
+    buttonChrome.href = "https://www.google.com/chrome/";
+    buttonFirex.classList.add("modela-compatibility__button");
+    buttonFirex.href = "https://www.mozilla.org/";
+    domMensaje.appendChild(domTitle);
+    domMensaje.appendChild(domText_1);
+    domMensaje.appendChild(domText_2);
+    domMensaje.appendChild(buttonChrome);
+    domMensaje.appendChild(buttonFirex);
+    domOverlay.appendChild(domMensaje);
+    body.appendChild(domOverlay);
+}
+if(navigator.appName.indexOf("Internet Explorer")!=-1 || navigator.userAgent.match(/Trident.*rv[ :]*11./))
+{
+  OpenPopUp();
+}</script><am-root ng-version="8.2.14"><router-outlet></router-outlet><am-login _nghost-ero-c0=""><a _ngcontent-ero-c0="" class="loginRoot__logo" href="/" target="_self"><!----><img _ngcontent-ero-c0="" alt="logo" class="loginRoot__logo--mb" src="/account/assets/images/login/logo-mobile.png"><!----><img _ngcontent-ero-c0="" alt="logo" class="loginRoot__logo--dt" src="/account/assets/images/login/logo-desktop.png"></a><router-outlet _ngcontent-ero-c0=""></router-outlet><am-login-account _nghost-ero-c1=""><!----><!----><p _ngcontent-ero-c1="" class="login__alertText">Para ver tus reservas ingresá o registrate con el email que realizaste la compra.</p><button _ngcontent-ero-c1="" class="login__btn mb-button mb-button--principal mb-button--primary" color="primary" mb-button="" variant="principal" _nghost-ero-c2=""><!----><span _ngcontent-ero-c2="" class="mb-button__content"><!----><span _ngcontent-ero-c2="">INGRESAR</span></span><!----></button><button _ngcontent-ero-c1="" class="login__btn outline mb-button mb-button--outline mb-button--secondary" color="secondary" mb-button="" variant="outline" _nghost-ero-c2=""><!----><span _ngcontent-ero-c2="" class="mb-button__content"><!----><span _ngcontent-ero-c2="">REGISTRATE</span></span><!----></button><section _ngcontent-ero-c1="" class="login__beneficts"><div _ngcontent-ero-c1="" class="login__benefictsItems"><span _ngcontent-ero-c1="" class="login__icons account-icon-reserva"></span><p _ngcontent-ero-c1="">Chequear el estado de tus reservas.</p></div><!----><div _ngcontent-ero-c1="" class="login__benefictsItems"><span _ngcontent-ero-c1="" class="login__icons account-icon-descuento"></span><p _ngcontent-ero-c1="">Acceder a descuentos exclusivos.</p></div><div _ngcontent-ero-c1="" class="login__benefictsItems"><span _ngcontent-ero-c1="" class="login__icons account-icon-voucher"></span><p _ngcontent-ero-c1="">Descargar los vouchers de tus reservas.</p></div></section><am-new-platform-dialog _ngcontent-ero-c1="" _nghost-ero-c3=""><!----></am-new-platform-dialog></am-login-account></am-login></am-root><script src="/account/assets/es-AR/runtime-es2015.9192eb37a4fddc82b4ff.js" data-cfasync="false"></script><script src="/account/assets/es-AR/runtime-es5.9192eb37a4fddc82b4ff.js" data-cfasync="false" nomodule="nomodule" defer="defer"></script><script src="/account/assets/es-AR/polyfills-es5.117c542b0055a4c5ee51.js" data-cfasync="false" nomodule="nomodule" defer="defer"></script><script src="/account/assets/es-AR/polyfills-es5-es2015.117c542b0055a4c5ee51.js.LICENSE.txt" data-cfasync="false" nomodule="nomodule" defer="defer"></script><script src="/account/assets/es-AR/polyfills-es2015.93b25add7db0f6928311.js.LICENSE.txt" data-cfasync="false"></script><script src="/account/assets/es-AR/polyfills-es2015.93b25add7db0f6928311.js" data-cfasync="false"></script><script src="https://cdn.almundo.com/statics/ajax/libs/Swiper/4.3.3/js/swiper.min.js" type="text/javascript" data-cfasync="false"></script><script src="/account/assets/es-AR/main-es2015.b75d9dbcfc720e4cc6e1.js" data-cfasync="false"></script><script src="/account/assets/es-AR/main-es2015.b75d9dbcfc720e4cc6e1.js.LICENSE.txt" data-cfasync="false"></script><script src="/account/assets/es-AR/main-es5.b75d9dbcfc720e4cc6e1.js" data-cfasync="false" nomodule="nomodule" defer="defer"></script><iframe height="0" width="0" style="display: none; visibility: hidden;" src="//8805542.fls.doubleclick.net/activityi;src=8805542;type=upper0;cat=home-0;ord=9213758623732;gtm=2wg6t0;auiddc=68504536.1657505099;~oref=https%3A%2F%2Falmundo.com.ar%2Faccount%2Flogin%3Fredirect_url%3Dhttps%3A%252F%252Falmundo.com.ar%252F?"></iframe><script src="/commons/shell/bundle.js" type="text/javascript" defer="defer" data-cfasync="false"></script><script type="text/javascript" id="">var keyValuePairs=location.search.slice(1).split("\x26"),retorno="",d=new Date,days=30;d.setTime(d.getTime()+864E5*days);var expires="expires\x3d"+d.toGMTString();keyValuePairs.forEach(function(a){a=a.split("\x3d");"click_id"==a[0]&&(document.cookie="clickCityAdsID\x3d"+a[1]+"; "+expires+";domain\x3d.almundo.com.ar;path\x3d/");"gclid"==a[0]&&(document.cookie="origin\x3dadwords;"+expires+";domain\x3d.almundo.com.ar;path\x3d/")});</script><script type="text/javascript" id="">try{(function(a,d,f,g,e){a[e]=a[e]||[];var h=function(){var c={ti:"5152659"};c.q=a[e];a[e]=new UET(c);a[e].push("pageLoad")};var b=d.createElement(f);b.src=g;b.async=1;b.onload=b.onreadystatechange=function(){var c=this.readyState;c&&"loaded"!==c&&"complete"!==c||(h(),b.onload=b.onreadystatechange=null)};d=d.getElementsByTagName(f)[0];d.parentNode.insertBefore(b,d)})(window,document,"script","//bat.bing.com/bat.js","uetq")}catch(a){console.error(a)};</script>
+<script type="text/javascript" id="">try{"use strict";var getUserId=function(a){a?(a=a.split("."),a=JSON.parse(atob(a[1])),a=a.jti):a="";return a},getCookie=function(a){var b="; "+document.cookie;a=b.split("; "+a+"\x3d");if(2==a.length)return a.pop().split(";").shift()},setCookie=function(a,b,c){var d=new Date;d.setTime(d.getTime()+36E5*c);c="expires\x3d"+d.toUTCString();document.cookie=a+"\x3d"+b+";"+c+";path\x3d/"},guid=function(){function a(){return Math.floor(65536*(1+Math.random())).toString(16).substring(1)}return a()+a()+"-"+
+a()+"-"+a()+"-"+a()+"-"+a()+a()+a()};"use strict";getCookie("_am.session_id")||setCookie(" _am.session_id",guid(),1);getCookie("_am.p13n")||setCookie(" _am.p13n",guid(),9999999)}catch(a){console.error(a)};</script>
+<script type="text/javascript" id="">(function(a){var b=document.createElement("script");b.type="text/javascript";b.async=!0;b.src=("https:"==document.location.protocol?"https://":"http://")+"tags.t.tailtarget.com/t3m.js?i\x3d"+a;a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)})("TT-12196-7/CT-904");</script>
+
+<div style="display: none; visibility: hidden;"><script language="JavaScript" type="text/javascript">var sourcevar=getQueryVariable("utm_source"),medium=getQueryVariable("utm_medium"),apclickvar=getQueryVariable("actionpay"),postclick=30,domain="almundo.com.ar",partnerId="10694";function getQueryVariable(d){var b=window.location.search.substring(1);b=b.split("\x26");for(var a=0;a<b.length;a++){var c=b[a].split("\x3d");if(c[0]==d)return c[1]}}
+function setCookie(d,b,a){var c=new Date;c.setTime(c.getTime()+864E5*a);a="expires\x3d"+c.toUTCString();document.cookie=d+"\x3d"+b+"; path\x3d/;"+a+"; domain\x3d"+domain;return cookieap}if("network"==sourcevar&&"actionpay"==medium){var cookieap=setCookie("Actionpay",apclickvar,postclick);cookieap=setCookie("Origem","actionpay",postclick)}else void 0!=sourcevar&&(cookieap=setCookie("Origem","outra_rede",postclick));</script></div>
+<script type="text/javascript" id="">try{!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","//connect.facebook.net/en_US/fbevents.js"),fbq("init","567398593402722"),fbq("track","PageView")}catch(b){console.error(b)};</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=567398593402722&amp;ev=PageView&amp;noscript=1"></noscript>
+<script type="text/javascript" id="">var _rely=[],_rl_id=213,_rl_src=0,_rl_ptc="https:"==window.location.protocol?"https":"http";_rely.send=function(){};(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=_rl_ptc+"://api.retargetly.com/loader?id\x3d"+_rl_id;a.id="rely-api";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script><script type="text/javascript" id="">try{(function(){var c="us.",e="KI5TZbD9vzoe6SPZzfSf",f=[];f.push("pr_"+e);var g="__rtbhouse.lid",b=window.localStorage.getItem(g);if(!b){b="";for(var h="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",d=0;20>d;d++)b+=h.charAt(Math.floor(Math.random()*h.length));window.localStorage.setItem(g,b)}f.push("pr_"+e+"_lid_"+b);var a=document.createElement("iframe");e=encodeURIComponent(document.referrer?document.referrer:"");g=encodeURIComponent(document.location.href?document.location.href:
+"");c="https://"+c+"creativecdn.com/tags?type\x3diframe";b=encodeURIComponent(""+Date.now());for(d=0;d<f.length;d++)c+="\x26id\x3d"+encodeURIComponent(f[d]);c+="\x26su\x3d"+g+"\x26sr\x3d"+e+"\x26ts\x3d"+b;a.setAttribute("src",c);a.setAttribute("width","1");a.setAttribute("height","1");a.setAttribute("scrolling","no");a.setAttribute("frameBorder","0");a.setAttribute("style","display:none");a.setAttribute("referrerpolicy","no-referrer-when-downgrade");document.body?document.body.appendChild(a):window.addEventListener("DOMContentLoaded",
+function(){document.body.appendChild(a)})})()}catch(c){};</script><iframe src="https://us.creativecdn.com/tags?type=iframe&amp;id=pr_KI5TZbD9vzoe6SPZzfSf&amp;id=pr_KI5TZbD9vzoe6SPZzfSf_lid_cPFAhLR3IWGyrV2NFG5l&amp;su=https%3A%2F%2Falmundo.com.ar%2Faccount%2Flogin%3Fredirect_url%3Dhttps%3A%252F%252Falmundo.com.ar%252F&amp;sr=https%3A%2F%2Falmundo.com.ar%2F&amp;ts=1657505101655" width="1" height="1" scrolling="no" frameborder="0" style="display:none" referrerpolicy="no-referrer-when-downgrade"></iframe><script type="text/javascript" id="" src="https://www.gfl85trk.com/scripts/sdk/everflow.js"></script>
+	<script type="text/javascript" id="">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";
+a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("C92TAKJC77U9N0P90D40");a.page()}(window,document,"ttq");</script>
+	<script type="text/javascript" id="">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";
+a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("C91MQ67RAOSJ17FRCDN0");a.page()}(window,document,"ttq");</script><script type="text/javascript" id="">var keyValuePairs=location.search.slice(1).split("\x26"),d=new Date,days=30;d.setTime(d.getTime()+864E5*days);var expires="expires\x3d"+d.toGMTString();
+keyValuePairs.forEach(function(a){a=a.split("\x3d");"utm_source"==a[0]&&(document.cookie="usource\x3d"+a[1].toLowerCase()+"; "+expires+";domain\x3d.almundo.com.ar;path\x3d/");"utm_medium"==a[0]&&(document.cookie="umedium\x3d"+a[1].toLowerCase()+"; "+expires+";domain\x3d.almundo.com.ar;path\x3d/");"kayakclickid"==a[0]&&(document.cookie="kayakclickid\x3d"+a[1]+"; "+expires+";domain\x3d.almundo.com.ar;path\x3d/");"trv_reference"==a[0]&&(document.cookie="GTM_TRV_REFERENCE_TR\x3d"+a[1]+"; "+expires+";domain\x3d.almundo.com.ar;path\x3d/");
+"refid"==a[0]&&(document.cookie="refid_trip\x3d"+a[1]+"; "+expires+";domain\x3d.almundo.com.ar;path\x3d/")});</script><div style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon937024971781"><img style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon148081103875" width="0" height="0" alt="" src="https://bat.bing.com/action/0?ti=5152659&amp;Ver=2&amp;mid=949d6352-6756-42a1-b42a-b359f685e0ce&amp;sid=dde8ed0000bd11edae0e4bf7fefca26f&amp;vid=dde9566000bd11edb0dc534d26985438&amp;vids=0&amp;uach=pv%3D14.0.0&amp;pi=918639831&amp;lg=es-419&amp;sw=1280&amp;sh=720&amp;sc=24&amp;nwd=1&amp;p=https%3A%2F%2Falmundo.com.ar%2Faccount%2Flogin%3Fredirect_url%3Dhttps%3A%252F%252Falmundo.com.ar%252F&amp;r=https%3A%2F%2Falmundo.com.ar%2F&amp;lt=2147&amp;evt=pageLoad&amp;msclkid=N&amp;sv=1&amp;rn=524779"></div><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-5e0db0f25ef573fe233efc0372d38d69.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><iframe id="_hjSafeContext_76342570" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe>
+
+<script type="text/javascript" id="">EF.click({offer_id:EF.urlParameter("oid"),affiliate_id:EF.urlParameter("affid"),sub1:EF.urlParameter("sub1"),sub2:EF.urlParameter("sub2"),sub3:EF.urlParameter("sub3"),sub4:EF.urlParameter("sub4"),sub5:EF.urlParameter("sub5"),uid:EF.urlParameter("uid"),source_id:EF.urlParameter("source_id"),transaction_id:EF.urlParameter("_ef_transaction_id")});</script>
+<iframe id="rely-iframe-1" src="https://api.retargetly.com/api?id=213&amp;src=0&amp;url=https%3A%2F%2Falmundo.com.ar%2Faccount%2Flogin%3Fredirect_url%3Dhttps%3A%252F%252Falmundo.com.ar%252F&amp;browserUrl=undefined&amp;ref=https%3A%2F%2Falmundo.com.ar%2F&amp;utmz=&amp;n=&amp;md=&amp;mk=&amp;il=0&amp;limit_drop=&amp;userid=f6e08c77-16fc-4440-8c01-f4d0798c4e72&amp;idx=" referrerpolicy="no-referrer-when-downgrade" style="display: none;"></iframe><script src="https://api.retargetly.com/formtags?id=213" referrerpolicy="no-referrer-when-downgrade"></script></body><iframe id="__JSBridgeIframe_1.0__" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult_1.0__" style="display: none;"></iframe><iframe id="__JSBridgeIframe__" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult__" style="display: none;"></iframe></html>

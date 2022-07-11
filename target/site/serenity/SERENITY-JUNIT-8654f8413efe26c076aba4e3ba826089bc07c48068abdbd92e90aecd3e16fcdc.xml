@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="testCases.TestBusqueda" skipped="0" tests="2" time="22.27" timestamp="2022-07-11 01:10:53"><testcase classname="testCases.TestBusqueda" name="Realizar busqueda sin vuelos"/><testcase classname="testCases.TestBusqueda" name="Realizar busqueda con vuelo"/></testsuite>

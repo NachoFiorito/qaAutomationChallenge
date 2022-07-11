@@ -1,6 +1,5 @@
 package testCases;
 
-import com.sun.xml.internal.ws.api.FeatureListValidatorAnnotation;
 import net.thucydides.core.annotations.Managed;
 import org.junit.After;
 import org.junit.Before;
